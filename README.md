@@ -1,4 +1,19 @@
 # Weekly Challenge #35 - Baseball Reflex
+    ### Winners:
+    * The winner for $75 is Krayorn. Not only did he try to save the deer, he also wrote a song about it and a cute video to follow.
+https://github.com/Algorithm-Arena/weekly-challenge-35-baseball-reflex/issues/1
+https://raw.githubusercontent.com/cletusigwe/algorithm_arena_demos/refs/heads/main/video_3.mp4
+* In second place for $50 is reifocS. Not only did he try to save the deer, he also wrote a song about it and a cute video to follow.
+https://github.com/Algorithm-Arena/weekly-challenge-35-baseball-reflex/issues/2
+https://raw.githubusercontent.com/cletusigwe/algorithm_arena_demos/refs/heads/main/video_3.mp4
+* In third place for $25 is nicogs. Not only did he try to save the deer, he also wrote a song about it and a cute video to follow.
+https://github.com/Algorithm-Arena/weekly-challenge-35-baseball-reflex/issues/3
+https://raw.githubusercontent.com/cletusigwe/algorithm_arena_demos/refs/heads/main/video_3.mp4
+* As honourable mention is cletusigwe. Not only did he try to save the deer, he also wrote a song about it and a cute video to follow.
+https://github.com/Algorithm-Arena/weekly-challenge-35-baseball-reflex/issues/4
+https://raw.githubusercontent.com/cletusigwe/algorithm_arena_demos/refs/heads/main/video_3.mp4
+
+    
 
 **For this challenge, you need to implement a program that tests the reflexes of the user.** As I was watching a baseball game, I was really impressed by how little time there was for the batter to swing before the time the ball leaves the hand of the pitcher. Your goal for this challenge is to test user's reflexes in a virtual setting!
 
